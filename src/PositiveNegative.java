@@ -1,3 +1,5 @@
+// 8. WAP to input any number and fid our if it is positive , negative or zero
+
 import java.util.Scanner;
 
 public class PositiveNegative

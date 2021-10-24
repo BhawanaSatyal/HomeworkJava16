@@ -1,3 +1,5 @@
+// 4. same as above but pass or fails on the basis of..student needs to pass all the subjects
+
 import java.util.Scanner;
 
 public class PassAndFail

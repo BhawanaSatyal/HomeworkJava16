@@ -1,3 +1,5 @@
+// 2. WAP to input any year like 1989 and find out if it is leap year
+
 import java.util.Scanner;
 
 public class LeapYear

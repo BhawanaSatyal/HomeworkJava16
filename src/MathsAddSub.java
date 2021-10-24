@@ -1,3 +1,6 @@
+// 13. WAP to input enter any two number and ask user to enter their symbol (+, -, /, *) find addition,
+//subtraction, multiplication and division according to their symbol (using if else)
+
 import java.util.Scanner;
 
 public class MathsAddSub {

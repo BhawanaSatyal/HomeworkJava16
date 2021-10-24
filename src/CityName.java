@@ -1,3 +1,6 @@
+// 10. Input any alphabet from a to f and print their city name accordingly (use if else) any other
+//alphabet should be invalid entry
+
 import java.util.Scanner;
 
 public class CityName
@@ -45,3 +48,4 @@ public class CityName
 
     }
 }
+

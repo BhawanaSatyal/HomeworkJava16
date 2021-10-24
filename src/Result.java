@@ -1,3 +1,10 @@
+//3. WAP to input student name, roll no, 3 subjects marks..and find out total, percentage and result if
+//he is pass or fail on basis of percentage (pass>=35) and also give them grade
+//>= 80 A+
+//>= 60 A
+//>= 50 B
+//>= 35 C
+
 import java.util.Scanner;
 
 public class Result
@@ -22,13 +29,13 @@ public class Result
 
 
         if (percentage >= 80) {
-            System.out.println("Your Grade is A +"); //output
+            System.out.println("You have Passed, Your Grade is A +"); //output
         } else if (percentage >= 60) {
-            System.out.println(" Your Grade is A");//output
+            System.out.println(" You have Passed, Your Grade is A");//output
         } else if (percentage >= 50) {
-            System.out.println(" Your Grade is B");//output
+            System.out.println(" You have Passed, Your Grade is B");//output
         } else if (percentage >= 35) {
-            System.out.println(" Your Grade is C");//output
+            System.out.println(" You have Passed, Your Grade is C");//output
         }
         else
             System.out.println("Fail");//output

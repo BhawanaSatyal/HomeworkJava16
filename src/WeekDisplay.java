@@ -1,3 +1,5 @@
+// 15. WAP input any number, the print Day name of the week accordingly by using if else
+
 import java.util.Scanner;
 
 public class WeekDisplay

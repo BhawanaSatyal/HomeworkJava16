@@ -1,3 +1,6 @@
+
+// Input any two number and find out its odd or even use turnery operator (? :)
+
 import java.util.Scanner;
 
 public class TurneryOperator {

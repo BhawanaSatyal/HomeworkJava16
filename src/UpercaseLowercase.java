@@ -1,3 +1,5 @@
+// 12. Input any alphabet in uppercase and print it in lowercase
+
 import java.util.Scanner;
 
 public class UpercaseLowercase {

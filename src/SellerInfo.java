@@ -1,3 +1,11 @@
+//  9. WAP input sales id, seller's name, sales amount, salary basic and then find this sales
+//commission
+//sales amount >= 50,000 35%
+//sales amount >= 30,000 20%
+// >= 20,000 10%
+// >= 10,000 5%
+// < 10,000 2%
+
 import java.util.Scanner;
 
 public class SellerInfo {

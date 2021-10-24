@@ -1,3 +1,5 @@
+// 7. WAP input any five number and then find average of five numbers
+
 import java.util.Scanner;
 
 public class Average {
